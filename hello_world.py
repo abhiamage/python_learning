@@ -8,3 +8,7 @@ def add(a=10,b=20):
     print(a+b)
 
 add()
+
+def sub(a=20,b=21):
+    print(b-a)
+sub()
